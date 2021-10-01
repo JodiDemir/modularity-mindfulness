@@ -59,4 +59,36 @@ header > img {
 header > h3 {
   border-bottom: 3px solid #e2e2e2;
   font-size: 1rem;
+  margin: 0;
+  padding: 0 1rem 2rem;
+}
+
+footer {
+  border-top: 3px solid #e2e2e2;
+  font-size: .75rem;
+}
+
+footer p {
+  text-align: center;
+}
+
+main {
+  margin: 1.5rem 0;
+}
+
+div > h3 {
+  font-size: 1.5rem;
+  margin: 1.5rem 0 0;
+}
+
+div > h4 {
+  margin: 0;
+}
+
+li > a {
+  color: #3783a3;
+}
+
+div > p {
+  margin: 1.75rem 0;
 }
