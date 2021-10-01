@@ -99,3 +99,17 @@ header > p {
   font-size: 2rem;
   margin: 1.5rem 0 0;
 }
+
+div {
+  margin: 1.75rem 0;
+  gap: 1rem;
+}
+
+div > a {
+  color: #3783a3;
+  padding: .5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 3px solid #3783a3;
+}
