@@ -44,3 +44,19 @@ h2 {
 ul > li {
   font-size: 1.125rem;
 }
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin: 0;
+}
+
+header > img {
+  margin: 1rem 0;
+}
+
+header > h3 {
+  border-bottom: 3px solid #e2e2e2;
+  font-size: 1rem;
+}
