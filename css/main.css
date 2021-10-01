@@ -92,3 +92,10 @@ li > a {
 div > p {
   margin: 1.75rem 0;
 }
+
+header > p {
+  padding: 1rem;
+  border-top: 3px solid #e2e2e2;
+  font-size: 2rem;
+  margin: 1.5rem 0 0;
+}
