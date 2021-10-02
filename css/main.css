@@ -188,8 +188,20 @@ div > a {
     justify-content: space-between;
   }
 
+  div p {
+    flex-grow: 1;
+  }
 
+}
 
+@media only screen and (min-width: 62.5rem) {
 
+  header h3 {
+    margin: 0 15rem;
+  }
+
+  header p {
+    margin: 0 15rem;
+  }
 
 }
